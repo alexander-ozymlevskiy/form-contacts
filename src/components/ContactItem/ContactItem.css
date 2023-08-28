@@ -1,0 +1,21 @@
+.column {
+  width: 20%;
+  border: 1px solid #ccc; 
+  padding: 8px;
+}
+
+/* DELETE BUTTON */
+.button-delete {
+  background-color: #e74c3c;
+  color: white;
+  border: none;
+  padding: 5px 10px;
+  cursor: pointer;
+  border-radius: 3px;
+  font-size: 14px;
+  margin-left: 10px;
+}
+
+.button-delete:hover {
+  background-color: #c0392b;
+}
